@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="name"> Aegi is my name</string>
+    <string name="bio"> I was born in Aug 30th, 2014 and become 7th years old in this summer.
+    \n\nI love fish.
+\n\nThe kind that is alive and swims around in an aquarium or river, or a lake, and definitely the ocean.
+
+\n\nI like eating fish, too. Raw fish. Grilled fish. Smoked fish. Poached fish - not so much.
+\nAnd sometimes I even go fishing.
+\nAnd even less sometimes, I actually catch something.
+\n\nOnce, when I was camping in Canada, and very hungry, I even caught a large salmon with my hands.\n\n
+    </string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="done">Done</string>
+    <string name="what_is_your_nickname">what\'s your pet name?</string>
+</resources>
