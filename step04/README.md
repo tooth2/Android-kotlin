@@ -1,5 +1,5 @@
 # Step 04: Android Trivia 
-## App Navigation 
+## What to expect: App Navigation 
 - App Components 
     - Fragments 
     - Intents
