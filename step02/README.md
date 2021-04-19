@@ -1,4 +1,4 @@
-# ColorMyViews
+# Step02: ColorMyViews
 ## What to Expect 
 - Layout
     - View Groups/View Hierarchy
