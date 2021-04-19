@@ -1,5 +1,5 @@
 # Step01: Dice Roller
-## Building the first app: "Dice Roller" covers 
+## What to Expect:  Building the first app "Dice Roller"
 - basic Android componetns 
     - App Anatomy 
     - Namespaces
