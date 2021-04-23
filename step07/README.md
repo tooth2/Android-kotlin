@@ -1,4 +1,4 @@
-#Step07
+# Step07
 The SleepQualityTracker app is a demo app that helps the user collect information about the user's sleep quality.
  - Start time, end time, quality, and time slept
 ## What to Expect 
